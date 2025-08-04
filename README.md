@@ -32,5 +32,5 @@ cd Digital-Currency-Trend-Plot
 ```
 #### 2- Install dependencies:
 ```
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
